@@ -20,25 +20,35 @@
 ### Tech stack
 
 **Languages**\
-![C++] ![Python] ![C] ![Javascript (unfortunately)] 
+![C++] 
+![Python] 
+![C] 
+![Javascript (unfortunately)] 
 
 **Frameworks & libraries**\
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodejs&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white) ![Tensorflow] ![Pytorch] 
+![Node.js]
+![Express] 
+![Tensorflow] 
+![Pytorch] 
 
 **Databases & cloud**\
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![MySQL] 
+![Docker]
+
+PS. The ![] syntax was intentional
 
 ---
 
-### Stats
 
-<div align="center">
+
+
+<!-- <div align="center">
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=https://github.com/PontentialProgrammer&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/PontentialProgrammer&layout=compact&theme=tokyonight&hide_border=true)
 
-</div>
+</div> -->
 
 ---
 
@@ -51,10 +61,10 @@
 
 ### I told you I write poems.
 
-If my people are still mental slaves,
-What is the purpose of freedom from slavery?
-If we are still dependent,
-What is the purpose of independence?
+#If my people are still mental slaves,
+#What is the purpose of freedom from slavery?
+#If we are still dependent,
+#What is the purpose of independence?
 Dependent on our previous (current) masters for aid,
 Subdued by the crushing feeling of hopelessness,
 reminded by the news of the ever-increasing cries of death,
