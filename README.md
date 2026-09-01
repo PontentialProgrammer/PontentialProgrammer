@@ -7,7 +7,7 @@
 ### About
 
 - **Location:** Somewhere
-- **Working on:** cool problems ( I think )
+- **Working on:** cool problems ( I think ) in Robotics, Ml and hardware
 - **Reach me:** [ayot.oyewumi@gmail.com](mailto:ayot.oyewumi@gmail.com)
 
 ### Some info
@@ -64,23 +64,23 @@ PS. The ![] syntax was intentional
 <p>If my people are still mental slaves,</p>
 <p>What is the purpose of freedom from slavery?</p>
 <p>If we are still dependent,</p>
-#What is the purpose of independence?
-Dependent on our previous (current) masters for aid,
-Subdued by the crushing feeling of hopelessness,
-reminded by the news of the ever-increasing cries of death,
-compelled to act, 
-to rise together and make a change,
-but slapped back to our fear
-of statistics made out of our names.
-X children kidnapped, gone forever.
-Celebrities then say it's really sad, what a shame.
-Now I ask again,
-If we truly have rights.
-Why are the lives of innocents ended day and night?
-Endless metaphors of lives as lit candles,
-brimming with hope and shining bright,
-while men without hearts
-move like the wind and snuff out fires.
+<p>What is the purpose of independence?</p>
+<p>Dependent on our previous (current) masters for aid,</p>
+<p>Subdued by the crushing feeling of hopelessness,</p>
+<p>reminded by the news of the ever-increasing cries of death,</p>
+<p>compelled to act, </p>
+<p>to rise together and make a change,</p>
+<p>but slapped back to our fear</p>
+<p>of statistics made out of our names.</p>
+<p>X children kidnapped, gone forever.</p>
+<p>Celebrities then say it's really sad, what a shame.</p>
+<p>Now I ask again,</p>
+<p>If we truly have rights.</p>
+<p>Why are the lives of innocents ended day and night?</p>
+<p>Endless metaphors of lives as lit candles,</p>
+<p>brimming with hope and shining bright,</p>
+<p>while men without hearts</p>
+<p></p>move like the wind and snuff out fires.</p>
 
 
 
