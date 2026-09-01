@@ -20,20 +20,20 @@
 ### Tech stack
 
 **Languages**\
-![C++] 
-![Python] 
-![C] 
-![Javascript (unfortunately)] 
+- ![C++] 
+- ![Python] 
+- ![C] 
+- ![Javascript (unfortunately)] 
 
 **Frameworks & libraries**\
-![Node.js]
-![Express] 
-![Tensorflow] 
-![Pytorch] 
+- ![Node.js]
+- ![Express] 
+- ![Tensorflow] 
+- ![Pytorch] 
 
 **Databases & cloud**\
-![MySQL] 
-![Docker]
+- ![MySQL] 
+- ![Docker]
 
 PS. The ![] syntax was intentional
 
@@ -61,9 +61,9 @@ PS. The ![] syntax was intentional
 
 ### I told you I write poems.
 
-#If my people are still mental slaves,
-#What is the purpose of freedom from slavery?
-#If we are still dependent,
+<p>If my people are still mental slaves,</p>
+<p>What is the purpose of freedom from slavery?</p>
+<p>If we are still dependent,</p>
 #What is the purpose of independence?
 Dependent on our previous (current) masters for aid,
 Subdued by the crushing feeling of hopelessness,
